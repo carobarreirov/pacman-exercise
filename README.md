@@ -1,8 +1,7 @@
 # pacman-exercise
 Feature of the game: displays and moves PacMan from one side of the screen to the other.
 
-## Name
-The name of the project. This name should be a descriptive, specific name for your project and what it does.  
+
 ## Description
 A description of the project to let people know what the project is for. A list of features could also be added here as a sub-section. 
 ## Installation
