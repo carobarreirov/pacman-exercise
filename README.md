@@ -17,3 +17,6 @@ Tasks lists are my favorite:
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
+
+## License
+This section could include any future fixes or improvements you might be planning for your project. 
