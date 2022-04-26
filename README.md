@@ -41,7 +41,7 @@
 
 ## :dart: About
 
-Little javascript project applying Js basics. We are simulating one feature of the Pacman game: displays Pacaman and moves one side of the screen to the other with collision detection.
+Little javascript project applying Js basics. We are simulating one feature of the Pacman game: displays one Pacman and moves one side of the screen to the other with collision detection.
 
 ## :sparkles: Features
 
