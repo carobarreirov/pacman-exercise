@@ -3,7 +3,7 @@
 
 &#xa0;
 
-<a href="https://carobarreirov.github.io/pacman-exercise/">Demo</a>
+<a href="./pacman-exercise">Demo</a>
 
 </div>
 
@@ -69,13 +69,6 @@ $ git clone https://github.com/carobarreirov/pacman-exercise
 # Access
 $ cd pacman-exercise
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 Do you want to do yours? Follow this [instructions](https://carobarreirov.github.io/pacman-movement/)
