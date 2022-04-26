@@ -78,7 +78,7 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-Do you want to do yours? Follow this [instructions] (https://carobarreirov.github.io/pacman-movement/)
+Do you want to do yours? Follow this [instructions](https://carobarreirov.github.io/pacman-movement/)
 
 ## :memo: License
 
