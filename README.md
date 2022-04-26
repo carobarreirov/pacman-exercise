@@ -16,7 +16,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/carobarreirov/pacman-exercise?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{carobarreirov/pacman-exercise?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/carobarreirov/pacman-exercise?color=56BEB8">
 </p>
 
 <!-- Status -->
