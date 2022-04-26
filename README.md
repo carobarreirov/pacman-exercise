@@ -46,7 +46,7 @@ Little javascript project applying Js basics. We are simulating one feature of t
 ## :sparkles: Features
 
 :heavy_check_mark: Pacman images changing depending on direction;\
-:heavy_check_mark: Pacman moving x and y axis2;\
+:heavy_check_mark: Pacman moving x and y axis;\
 :heavy_check_mark: Pacman with collision detection ;
 
 ## :rocket: Technologies
