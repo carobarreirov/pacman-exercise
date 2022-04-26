@@ -41,7 +41,7 @@
 
 ## :dart: About
 
-Little javascript project applying Js basics. We are simulating on feature of the Pacman game: movement with collision detection
+Little javascript project applying Js basics. We are simulating one feature of the Pacman game: displays Pacaman and moves one side of the screen to the other with collision detection.
 
 ## :sparkles: Features
 
@@ -77,6 +77,8 @@ $ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
+
+Do you want to do yours? Follow this [instructions] (https://carobarreirov.github.io/pacman-movement/)
 
 ## :memo: License
 
