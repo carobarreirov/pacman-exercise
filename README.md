@@ -3,7 +3,7 @@
 
 &#xa0;
 
-<a href="./pacman-exercise">Demo</a>
+<a href="https://carobarreirov.github.io/pacman-exercise/pacman-exercise/">Demo</a>
 
 </div>
 
